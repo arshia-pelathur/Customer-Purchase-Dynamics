@@ -18,6 +18,6 @@ To run the Jupyter Notebook in this repository, follow these steps:
 
 1. Ensure you have [Python](https://www.python.org/downloads/) installed on your system.
 2. Install JupyterLab or Jupyter Notebook by running:
-   '''
+   ```
    pip install jupyterlab
-   '''
+   ```
