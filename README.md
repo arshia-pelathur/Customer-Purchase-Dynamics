@@ -18,9 +18,9 @@ To run the Jupyter Notebook in this repository, follow these steps:
 
 1. Ensure you have [Python](https://www.python.org/downloads/) installed on your system.
 2. Install JupyterLab or Jupyter Notebook by running:
-   ```
-   pip install jupyterlab
-   ```
+```
+pip install jupyterlab
+```
 3. Install required Python packages:
 ```
 pip install pandas matplotlib seaborn sqlite3
@@ -29,7 +29,11 @@ pip install pandas matplotlib seaborn sqlite3
 ```
 git clone https://github.com/arshia-pelathur/Customer-Purchase-Dynamics.git
 ```
-5. Open `Customer_Purchase_Dynamics.ipynb` from the Jupyter interface to view or run the analysis.
+5. Install Git Large File Storage (LFS): This project uses Git LFS to manage large data files.
+```
+git lfs install
+```
+6. Open `Customer_Purchase_Dynamics.ipynb` from the Jupyter interface to view or run the analysis.
 
 
 ## Key Findings
